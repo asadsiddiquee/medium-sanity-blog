@@ -9,8 +9,8 @@ const Hero = () => {
           and connect
         </h3>
         <p>
-          It's easy and free to post your thinking on any topic and connect with
-          millions of readers.
+          It&apos;s easy and free to post your thinking on any topic and connect
+          with millions of readers.
         </p>
       </div>
       <div>
