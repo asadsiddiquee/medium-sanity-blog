@@ -33,7 +33,7 @@ const Post = ({ post = props.post }) => {
             Published at {new Date(post._createdAt).toLocaleString()}
           </p>
         </div>
-        <div className="flex justify-center items-center max-w-4xl mx-auto">
+        <div className="flex justify-center items-center max-w-4xl mx-auto font-mono">
           <PortableText
             dataset="production"
             projectId={process.env.NEXT_PUBLIC_SANITY_PROJECT_ID}
